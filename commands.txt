@@ -1,3 +1,4 @@
+first time
 echo "# hackathon2023" >> README.md
 git init
 git add .
@@ -5,3 +6,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/raghuprasadks/hackathon2023.git
 git push -u origin main
+
+
+
+every time there is a change
+
+git add .
+git commit -m "second version"
+git push
